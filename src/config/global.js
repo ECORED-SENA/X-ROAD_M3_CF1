@@ -124,23 +124,19 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: [
-          'Eulises Orduz Amezquita',
-          'Luis Gabriel Urueta Alvarez',
-          'Oscar Ivan Uribe Ortiz',
-        ],
+        nombre: ['Eulises Orduz Amezquita', 'Oscar Ivan Uribe Ortiz'],
         cargo: 'Diseño web y Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Diego Fernando Velasco Güiza',
+        nombre: 'Luis Gabriel Urueta Alvarez',
         cargo: 'Desarrollo front-end',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Yuli Marcela Gómez Tarazona',
+        nombre: 'nn',
         cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
