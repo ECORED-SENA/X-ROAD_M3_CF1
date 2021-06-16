@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Contexto de práctica
+      h1 Escenario avanzado de interoperabilidad
     
     h2.mb-4 Actores
 
@@ -50,11 +50,19 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-secundario.ColorTarjeta2.p-4.mb-4
-          .h5 Cajón texto color
-          p Se puede usar dos o más columnas para diagramar el texto, estos elementos pueden presentar contenedores que permitan diferenciar ideas o conceptos.
+          .h4 Descripción
+          p
+            | El sistema de información del 
+            strong departamento de Tecnología 
+            | debe interponer con sistemas de información de los 
+            strong departamentos: 
+            | Tránsito, Ciudadanía, Transporte, Enseñanza y Movilidad, con el propósito de generar una nueva licencia de conducción.
+          p
+            | Este proceso debe realizarse a través del ecosistema 
+            strong X-Road.
     
     #t1_1.titulo-segundo
-      h2 1.1  Descripción detallada del 
+      h2 1.1 Descripción detallada del escenario
       
     .row.justify-content-center.mb-5
       .col-md-7.col-lg-5
@@ -70,7 +78,7 @@
               | Descripción Detallada del Escenario
     
     #t1_2.titulo-segundo
-      h2 1.2  Guía de implementación del escenario
+      h2 1.2 Guía de implementación del escenario
     
     .row.justify-content-center.mb-4
       .col-md-7.col-lg-5

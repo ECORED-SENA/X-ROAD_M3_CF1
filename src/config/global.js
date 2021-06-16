@@ -17,7 +17,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Escenario avanzado de Interoperabilidad',
+        titulo: 'Escenario avanzado de interoperabilidad',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Descripción detallada del escenario',
+            titulo: 'Guía de implementación del escenario',
             hash: 't1_2',
           },
         ],
@@ -98,17 +98,17 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
-      {
-        nombre: 'Vilma Lucia Perilla M.',
-        cargo: 'Revisora y evaluadora metodológica',
-        centro: 'Centro de Gestión Industrial',
-      },
-      {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Correción de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
+      //{
+      //  nombre: 'Vilma Lucia Perilla M.',
+      //  cargo: 'Revisora y evaluadora metodológica',
+      //  centro: 'Centro de Gestión Industrial',
+      //},
+      //{
+      //  nombre: 'Sandra Patricia Hoyos Sepúlveda',
+      //  cargo: 'Correción de estilo',
+      //  centro: 'Centro para la Industria de la Comunicación Gráfica',
+      //  regional: 'Regional Distrito Capital',
+      //},
     ],
     desarrolloProducto: [
       {
@@ -124,7 +124,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Eulises Orduz Amezquita', 'Oscar Ivan Uribe Ortiz'],
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web y Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -136,7 +136,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'nn',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
